@@ -14,15 +14,14 @@ export default function About() {
         <section>
           <h3>我是谁</h3>
           <p>
-            嗨，我是 Jee，一个 Web 开发者，喜欢 Coding
-            和电子游戏（尤其是魂类游戏 🎮 ）。
+            嗨，我是 Ming，一个 Web 开发者，正在往大前端方向努力，喜欢玩游戏，喜欢学习新的技术和框架。
           </p>
         </section>
 
         <section>
           <h3>我在做什么</h3>
           <p>
-            目前我正在学习如何使用 Expo 开发移动应用，空闲时也会写一些文章。
+            目前我正在学习react、nextjs、vue3，也在学习 AI 相关的知识
           </p>
         </section>
 
@@ -43,17 +42,7 @@ export default function About() {
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--typescript]" />
-                TypeScript，会玩体操，偶尔也会 any。
-              </li>
-
-              <li>
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--tailwindcss-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--tailwindcss-light] hidden dark:inline-block" />
-                TailwindCSS、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--sass]" />
-                Sass、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--styledcomponents]" />
-                CSS in JS，需要哪个就用哪个。
+                TypeScript
               </li>
 
               <li>
@@ -63,43 +52,23 @@ export default function About() {
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vuejs-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vuejs-light] hidden dark:inline-block" />
                 Vue、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--angular-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--angular-light] hidden dark:inline-block" />
-                Angular、
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--svelte]" />
-                Svelte，流行的都玩，哪有为什么。
+                Svelte，啥都想尝试
               </li>
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--nextjs-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--nextjs-light] hidden dark:inline-block" />
-                NextJS，会做服务端渲染，不会处理高并发。
+                NextJS，能够进行独立项目开发，目前正在努力学习中
               </li>
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--webpack-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--webpack-light] hidden dark:inline-block" />
                 Webpack、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--rollupjs-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--rollupjs-light] hidden dark:inline-block" />
-                Rollup、
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vite-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vite-light] hidden dark:inline-block" />
-                Vite，会写配置和插件，没看过源码。
-              </li>
-
-              <li>
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--jest]" />
-                Jest、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--vitest-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--vitest-light] hidden dark:inline-block" />
-                Vitest，会不会得看时间够不够。
-              </li>
-
-              <li>
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--threejs-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--threejs-light] hidden dark:inline-block" />
-                ThreeJS，用过，还在新手期。
+                Vite
               </li>
             </ul>
           </div>
@@ -110,28 +79,25 @@ export default function About() {
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--nestjs-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--nestjs-light] hidden dark:inline-block" />
-                NestJS，能写 CRUD 的水平。
+                NestJS，规划后面进行学习
               </li>
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--postgresql-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--postgresql-light] hidden dark:inline-block" />
                 PostgreSQL、
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--supabase-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--supabase-light] hidden dark:inline-block" />
-                Supabase、
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--prisma]" />
-                Prisma，能写简单的 SQL，主要用 ORM 框架。
+                Prisma，能写简单的 SQL语句，目前基本使用 ORM 框架。
               </li>
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--docker]" />
-                Docker，会用，没它后端技术我学不会。
+                Docker，正在学习
               </li>
 
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--nginx]" />
-                Nginx，会配置代理、HTTP2、HTTPS。
+                Nginx，正在学习
               </li>
             </ul>
           </div>
@@ -147,13 +113,7 @@ export default function About() {
               <li>
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vscode-dark] dark:hidden" />
                 <i className="mr-1 translate-y-0.5 icon-[skill-icons--vscode-light] hidden dark:inline-block" />
-                VSCode，我从小用到大。
-              </li>
-
-              <li>
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--vim-dark] dark:hidden" />
-                <i className="mr-1 translate-y-0.5 icon-[skill-icons--vim-light] hidden dark:inline-block" />
-                Vim，好玩，爱玩。
+                VSCode，写代码最爱
               </li>
             </ul>
           </div>
@@ -166,7 +126,7 @@ export default function About() {
           <div className="space-x-3">
             <Link
               className="hover:opacity-75 transition-opacity"
-              href="https://github.com/985563349"
+              href="https://github.com/GCM6/blog"
               target="_blank"
             >
               <i className="size-7 icon-[skill-icons--github-dark] dark:hidden" />
@@ -175,7 +135,7 @@ export default function About() {
 
             <Link
               className="hover:opacity-75 transition-opacity"
-              href="mailto:jie985563349@outlook.com"
+              href="mailto:mingicelucky@gmail.com"
             >
               <i className="size-7 icon-[skill-icons--gmail-dark] dark:hidden" />
               <i className="size-7 icon-[skill-icons--gmail-light] hidden dark:inline-block" />

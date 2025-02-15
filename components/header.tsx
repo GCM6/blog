@@ -15,7 +15,7 @@ const Header: React.FC = () => {
       <header>
         <div className="flex items-center justify-between mx-auto p-5 max-w-screen-lg">
           <Link href="/">
-            <span className="font-semibold">Jee</span>
+            <span className="font-semibold">Ming</span>
           </Link>
 
           <div className="flex items-center gap-4">

@@ -12,11 +12,11 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Jee',
-    default: 'Jee Wong',
+    template: '%s - Ming',
+    default: 'Ming',
   },
-  description: 'Jee Wong',
-  authors: [{ name: 'Jee' }],
+  description: 'Ming',
+  authors: [{ name: 'Ming' }],
 };
 
 export default function RootLayout({

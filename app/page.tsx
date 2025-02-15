@@ -19,12 +19,12 @@ export default function Home() {
             wrapper="p"
             cursor={false}
             speed={20}
-            sequence={['嗨，我是 Jee 👋🏻']}
+            sequence={[`Hi，I'm Ming 👋`]}
           />
           <p className="text-4xl font-semibold">
-            一个 Web 开发者 · 终身学习者 · 游戏爱好者
+          A Front-end Developer
           </p>
-          <p>我喜欢学习新的技术和框架，目前正在寻找新的工作机会 👨‍💻。</p>
+          <p >我喜欢学习新的技术和框架，目前正在寻找新的工作机会 🙏</p>
         </div>
       </section>
     </div>

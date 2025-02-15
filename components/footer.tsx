@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           >
             CC BY-NC-SA 4.0
           </a>
-          <span>2023-PRESENT © Jee</span>
+          <span>2023-PRESENT © Ming</span>
         </p>
       </div>
     </footer>
